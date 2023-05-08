@@ -1,0 +1,15 @@
+/Users/cnaviat/Desktop/calculadora/bin/Debug/net7.0/calculadora
+/Users/cnaviat/Desktop/calculadora/bin/Debug/net7.0/calculadora.deps.json
+/Users/cnaviat/Desktop/calculadora/bin/Debug/net7.0/calculadora.runtimeconfig.json
+/Users/cnaviat/Desktop/calculadora/bin/Debug/net7.0/calculadora.dll
+/Users/cnaviat/Desktop/calculadora/bin/Debug/net7.0/calculadora.pdb
+/Users/cnaviat/Desktop/calculadora/obj/Debug/net7.0/calculadora.csproj.AssemblyReference.cache
+/Users/cnaviat/Desktop/calculadora/obj/Debug/net7.0/calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cnaviat/Desktop/calculadora/obj/Debug/net7.0/calculadora.AssemblyInfoInputs.cache
+/Users/cnaviat/Desktop/calculadora/obj/Debug/net7.0/calculadora.AssemblyInfo.cs
+/Users/cnaviat/Desktop/calculadora/obj/Debug/net7.0/calculadora.csproj.CoreCompileInputs.cache
+/Users/cnaviat/Desktop/calculadora/obj/Debug/net7.0/calculadora.dll
+/Users/cnaviat/Desktop/calculadora/obj/Debug/net7.0/refint/calculadora.dll
+/Users/cnaviat/Desktop/calculadora/obj/Debug/net7.0/calculadora.pdb
+/Users/cnaviat/Desktop/calculadora/obj/Debug/net7.0/calculadora.genruntimeconfig.cache
+/Users/cnaviat/Desktop/calculadora/obj/Debug/net7.0/ref/calculadora.dll
